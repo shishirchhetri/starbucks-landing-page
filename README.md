@@ -1,3 +1,4 @@
+#simple starbucks page (old) clones using html and css
 # starbucks-landing-page
 #created using Html and css 
 
